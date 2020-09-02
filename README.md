@@ -13,4 +13,4 @@ Predictive analysis project to predict the life expectancy of a specific country
 Project includes: Feature engineering, feature selectiong, EDA, data cleaning, model tuning and comparing various preprocessing techniques.
 
 
-DATA TAKEN FROME: https://www.kaggle.com/kumarajarshi/life-expectancy-who
+DATA TAKEN FROM: https://www.kaggle.com/kumarajarshi/life-expectancy-who
